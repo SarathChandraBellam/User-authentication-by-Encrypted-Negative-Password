@@ -7,4 +7,4 @@ Prerequisites : Python3 (>=3.6)
 
 Libraries     : Crypto, Flask, hashlib, sqllite3
 
-##### All libraries and python is available is with Anaconda distribution
+##### All libraries and python are available  with Anaconda distribution
